@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "experience": 2,
+    "name": "Cochran Bartlett",
+    "areas": "Web",
+    "manager": "Lewis Vaughan",
+    "opportunity": "Web designer - Junior",
+    "company": "Aquazure",
+    "state": "In Progress",
+    "zones": "Lisboa, Aveiro",
+    "salary": {
+      "min": "1200,00 €",
+      "max": "1400,00 €"
+    },
+    "rate": "120,00 €",
+    "client": "Kindaloo",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 2,
+    "experience": 3,
+    "name": "Campos Barry",
+    "areas": "Microsoft",
+    "manager": "Bell Herrera",
+    "opportunity": "Web Developer - Senior",
+    "zones": "Porto, Aveiro, Braga",
+    "company": "Beadzza",
+    "state": "In Progress",
+    "salary": {
+      "min": "1400,00 €",
+      "max": "1600,00 €"
+    },
+    "rate": "120,00 €",
+    "client": "Tersanki",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 3,
+    "experience": 4,
+    "name": "Higgins Young",
+    "areas": "Databases",
+    "manager": "Clemons Parks",
+    "opportunity": "UI designer",
+    "zones": "Lisboa, Oeiras",
+    "company": "Kraggle",
+    "state": "In Progress",
+    "salary": {
+      "min": "1250,00 €",
+      "max": "1450,00 €"
+    },
+    "rate": "110,00 €",
+    "client": "Qiao",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 4,
+    "experience": 1,
+    "name": "Clarissa Hendricks",
+    "areas": "Databases",
+    "manager": "Blankenship Walls",
+    "opportunity": "Full stack",
+    "company": "Gorganic",
+    "state": "In Progress",
+    "zones": "Lisboa",
+    "salary": {
+      "min": "1350,00 €",
+      "max": "1600,00 €"
+    },
+    "rate": "135,00 €",
+    "client": "Datagen",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 5,
+    "experience": 6,
+    "name": "Farmer Gross",
+    "areas": "Web",
+    "manager": "Conner Gill",
+    "opportunity": "Back-end, node",
+    "company": "Exostream",
+    "state": "Rejected",
+    "salary": {
+      "min": "1250,00 €",
+      "max": "1500,00 €"
+    },
+    "zones": "Leiria, Coimbra",
+    "rate": "140,00 €",
+    "client": "Maxemia",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 6,
+    "experience": 5,
+    "name": "Rosario Noble",
+    "areas": "Microsoft",
+    "manager": "Margarita Wright",
+    "opportunity": "Front-end, Angular",
+    "company": "Roboid",
+    "state": "Rejected",
+    "salary": {
+      "min": "1350,00 €",
+      "max": "1550,00 €"
+    },
+    "zones": "Lisboa, Leiria, Coimbra",
+    "rate": "115,00 €",
+    "client": "Incubus",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 7,
+    "experience": 7,
+    "name": "Rhoda Ferguson",
+    "areas": "Web",
+    "manager": "Wiley Branch",
+    "opportunity": "Ios developer",
+    "company": "Spherix",
+    "state": "Rejected",
+    "salary": {
+      "min": "1300,00 €",
+      "max": "1400,00 €"
+    },
+    "zones": "Lisboa, Aveiro",
+    "rate": "125,00 €",
+    "client": "Musix",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  },
+  {
+    "id": 8,
+    "experience": 9,
+    "name": "Abbott Castro",
+    "areas": "Microsoft",
+    "manager": "Reed Mcclure",
+    "opportunity": "Outsystems",
+    "company": "Geekmosis",
+    "state": "Rejected",
+    "salary": {
+      "min": "1450,00 €",
+      "max": "1650,00 €"
+    },
+    "zones": "Lisboa",
+    "rate": "120,00 €",
+    "client": "Buzzness",
+    "last_mod": {
+      "autor": "NASA-INIT",
+      "date": "04/11/2017"
+    }
+  }
+]
